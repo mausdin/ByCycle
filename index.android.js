@@ -22,7 +22,7 @@ class AwesomeProject extends Component {
           ByCycle
         </Text>
         <Text style={styles.instructions}>
-          Hi Alfie!
+          Hi Maxime!
         </Text>
         <Text style={styles.instructions}>
           Shake or press menu button for dev menu
